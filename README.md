@@ -1,4 +1,4 @@
-# GUVI-LLM--GUVI-GPT-Model-using-Hugging-Face
+# GUVI-LLM-GUVI-GPT-Model-using-Hugging-Face
 
 ## Introduction
 This project demonstrates the deployment of a GUVI GPT model using Hugging Face. The goal is to provide a seamless experience in interacting with the model through a web interface using Streamlit or Gradio.
